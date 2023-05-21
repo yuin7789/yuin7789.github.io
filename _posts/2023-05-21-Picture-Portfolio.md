@@ -48,5 +48,5 @@ comments: true
 
 {: .box-note}
 **Note:** 니콘으로 촬영한사진
-**Note:** ⓒeunchanbravekim
+ⓒeunchanbravekim
 
