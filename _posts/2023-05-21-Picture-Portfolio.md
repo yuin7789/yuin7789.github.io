@@ -47,6 +47,7 @@ comments: true
 ![Crepe](https://ifh.cc/g/bB4GNr.jpg)
 
 {: .box-note}
-**Note:** 니콘으로 촬영한사진
+photo taken with nikon
+
 ⓒeunchanbravekim
 
