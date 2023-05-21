@@ -25,9 +25,9 @@ comments: true
 6
 ![Crepe](https://cdn.discordapp.com/attachments/778521874018861066/1109801982669099138/IMG_20230520_231742_043.jpg)
 7
-![Crepe](https://ibb.co/cc2fxY9)
+![Crepe](https://ifh.cc/g/t5brdF.jpg)
 8
-![Crepe](https://ibb.co/KLmsXcc)
+![Crepe](https://ifh.cc/v-t5brdF)
 
 {: .box-note}
 **Note:** This is a notification box.
