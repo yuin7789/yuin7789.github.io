@@ -7,7 +7,6 @@ gh-repo: daattali/beautiful-jekyll
 tags: [Portfolio]
 comments: true
 ---
-**Here is some bold text**
 ## Pictures
  
 
