@@ -13,18 +13,18 @@
 title: "eunchan's website"
 
 # Your name to show in the footer
-author: Some Person
+author: EUNCHAN
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "eunchanbravekim"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Instagram: "https://www.instagram.com/eunchanbravekim/"
+    - Spotify: "https://open.spotify.com/user/314zhc33piwrpoczmyliyt3qnebq"
+  
 
 ################
 # --- Logo --- #
@@ -49,10 +49,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "eunchanbravekim@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   instargram: eunchanbravekim@gmail.com
-  github: daattali
+  github: yuin7789
  
  
   
@@ -62,8 +62,8 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
+instagram: eunchanbravekim
+spotify: YUIN
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
