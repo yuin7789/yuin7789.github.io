@@ -21,9 +21,14 @@ author: EUNCHAN
 
 navbar-links:
   About Me: "aboutme"
+  Blog:
+    - Coding Portfolio: "https://colab.research.google.com/drive/1z3KGbSp9mLqkIJKMwbUbNxfGZZ9969_U?usp=sharing"
+    - Photo Portfolio: "https://yuin7789.github.io/2023-05-21-Picture-Portfolio/"
+    - Music: "https://open.spotify.com/playlist/5lutzXBL00vcGIkVvwGHPU"
   account:
     - Instagram: "https://www.instagram.com/eunchanbravekim/"
     - Spotify: "https://open.spotify.com/user/314zhc33piwrpoczmyliyt3qnebq"
+    
   
 
 ################
@@ -78,7 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: 
 
 ###########################
 # --- General options --- #
