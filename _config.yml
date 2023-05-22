@@ -21,7 +21,7 @@ author: EUNCHAN
 
 navbar-links:
   About Me: "eunchanbravekim"
-  Resources:
+  account:
     - Instagram: "https://www.instagram.com/eunchanbravekim/"
     - Spotify: "https://open.spotify.com/user/314zhc33piwrpoczmyliyt3qnebq"
   
@@ -51,7 +51,6 @@ round-avatar: true
 social-network-links:
   email: "eunchanbravekim@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  instargram: eunchanbravekim@gmail.com
   github: yuin7789
  
  
