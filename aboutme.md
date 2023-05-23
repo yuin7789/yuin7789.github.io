@@ -8,9 +8,9 @@ subtitle: Introduce me
 eunchan  
   
 **Account**  
--Instagram: (https://www.instagram.com/eunchanbravekim/?next=%2F){:target="_blank"}  
--Instagram: (https://www.instagram.com/coding_eunchan/?next=%2F){:target="_blank"}  
--Instagram: (https://www.instagram.com/eunchan_copy/){:target="_blank"}  
+-Instagram: (https://www.instagram.com/eunchanbravekim/?next=%2F){:target="_blank"})  
+-Instagram: (https://www.instagram.com/coding_eunchan/?next=%2F){:target="_blank"})  
+-Instagram: (https://www.instagram.com/eunchan_copy/){:target="_blank"})  
   
 -Spotify: (https://open.spotify.com/user/314zhc33piwrpoczmyliyt3qnebq){:target="_blank"}  
   
