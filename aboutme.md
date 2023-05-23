@@ -22,7 +22,7 @@ School
 -(현) 죽전중학교 재학생  
 -(현) 죽전중학교 방송부  
   
-**Code Language**  
+**Language**  
 -Python  
 -Scratch  
 -Entry  
