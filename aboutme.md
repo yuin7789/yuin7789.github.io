@@ -32,4 +32,5 @@ School
 **Hobby**  
 -Coding  
 -Gaming  
+-Take a Picture
 
