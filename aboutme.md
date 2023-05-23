@@ -1,16 +1,34 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Introduce me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**김은찬**eunchan
+  
+**Account**
+-Instagram: https://www.instagram.com/eunchanbravekim/?next=%2F
+-Instagram: https://www.instagram.com/coding_eunchan/?next=%2F
+-Instagram: https://www.instagram.com/eunchan_copy/
+  
+-Spotify: https://open.spotify.com/user/314zhc33piwrpoczmyliyt3qnebq
+  
+-Email: eunchanbravekim@gmail.com
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**Introduce Me**
+School
+-(전) 광진초등학교 재학생
+-(전) 광진초등학교 방송부
+-(현) 죽전중학교 재학생
+-(현) 죽전중학교 방송부
+  
+**Code Language**
+-Python
+-Scratch
+-Entry
+-App Inventor
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**Hobby**
+-Coding
+-Gaming
+-
