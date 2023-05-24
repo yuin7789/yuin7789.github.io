@@ -34,3 +34,8 @@ School
 -Gaming  
 -Take a Picture
 
+**Using Camera**
+-Nikon D80 DSLR
+-SIGMA 70~200mm lens
+-Nikon 50mm lens
+-Nikon 18~135mm lens
