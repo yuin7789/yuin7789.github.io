@@ -20,7 +20,7 @@ eunchan
 School  
 -(전) 광진초등학교 [재학생](https://gwangjin.sen.es.kr/){:target="_blank"}  
 -(전) 광진초등학교 방송부  
--(현) 죽전중학교 [재학](https://jukgeon-m.goeyi.kr/jukgeon-m/main.do){:target="_blank"}
+-(현) 죽전중학교 [재학](https://jukgeon-m.goeyi.kr/jukgeon-m/main.do){:target="_blank"}  
 -(현) 죽전중학교 [방송부](https://www.instagram.com/jjbroadcast_jbs/){:target="_blank"}   
   
 **Language**  
