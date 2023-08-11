@@ -8,7 +8,7 @@ subtitle: Introduce me
 eunchan  
   
 **Account**  
--Instagram: [eunchanbravekim](https://www.instagram.com/eunchanbravekim/?next=%2F){:target="_blank"}  
+-Instagram: [eunchanbravekim](https://www.instagram.com/eunchan_photographer/){:target="_blank"}  
 -Instagram: [coding_eunchan](https://www.instagram.com/coding_eunchan/?next=%2F){:target="_blank"}  
 -Instagram: [eunchan_copy](https://www.instagram.com/eunchan_copy/){:target="_blank"}  
   
