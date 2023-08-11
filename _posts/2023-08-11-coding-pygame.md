@@ -28,7 +28,6 @@ WHITE = (255, 255, 255)
 FONT = pygame.font.Font(None, 36)
 
 # 클래스 정의
-# ... (이전 코드 부분 생략)
 class Tower(pygame.sprite.Sprite):
     def __init__(self, pos_x, pos_y):
         super().__init__()
@@ -164,8 +163,6 @@ while is_running:
         wave = waves[wave_index]
         monster_spawn_timer = now
 
-# ... (이전 코드 부분 생략)
-
         for monster_data in wave:
             monster = Monster(0, WINDOW_HEIGHT // 2, monster_data["hp"], monster_data["speed"])
             all_sprites.add(monster)
@@ -181,11 +178,6 @@ while is_running:
         all_sprites.add(monster)
         monsters.add(monster)
         monster_spawn_timer += monster_spawn_interval  # 몬스터 생성 간격 누적
-
-    # ... (이후 코드 부분 생략)
-
-# ... (이후 코드 부분 생략)
-# ... (이전 코드 부분 생략)
 
     for monster in monsters:
         monster.update()
