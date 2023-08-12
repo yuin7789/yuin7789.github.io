@@ -1,12 +1,12 @@
 ---
 layout: post
 title: School Rule
-subtitle: 1-1 Rule
+subtitle: School Rule
 cover-img: assets/img/aa.png
 gh-repo: daattali/beautiful-jekyll
-tags: [School]
+tags: [Portfolio]
 comments: true
-published: true 
+published: true
 ---
 
  
