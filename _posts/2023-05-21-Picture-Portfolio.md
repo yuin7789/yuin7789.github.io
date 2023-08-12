@@ -1,53 +1,52 @@
 ---
 layout: post
-title: Portfolio
-subtitle: Picture Portfolio
+title: School Rule
+subtitle: School Rule
 cover-img: assets/img/IMG_20230520_231741_985.jpg
 gh-repo: daattali/beautiful-jekyll
 tags: [Portfolio]
 comments: true
 ---
-## Pictures
+
  
 
- ** **
-1
-![Crepe](https://cdn.discordapp.com/attachments/778521874018861066/1109801984229392455/IMG_20230520_231741_985.jpg)
-2
-![Crepe](https://cdn.discordapp.com/attachments/778521874018861066/1109801983944167485/IMG_20230520_231741_843.jpg)
-3
-![Crepe](https://cdn.discordapp.com/attachments/778521874018861066/1109801983621218425/IMG_20230520_231742_157.jpg)
-4
-![Crepe](https://cdn.discordapp.com/attachments/778521874018861066/1109801983327608913/IMG_20230520_231742_128.jpg)
-5
-![Crepe](https://cdn.discordapp.com/attachments/778521874018861066/1109801983017238591/IMG_20230520_231742_085.jpg)
-6
-![Crepe](https://cdn.discordapp.com/attachments/778521874018861066/1109801982669099138/IMG_20230520_231742_043.jpg)
-7
-![Crepe](https://ifh.cc/g/t5brdF.jpg)
-8
-![Crepe](https://ifh.cc/g/2fm7kS.jpg)
-9
-![Crepe](https://ifh.cc/g/YqVlQ0.jpg)
-10
-![Crepe](https://ifh.cc/g/APrKgj.jpg)
-11
-![Crepe](https://ifh.cc/g/0TLhNT.jpg)
-12
-![Crepe](https://ifh.cc/g/3OtDvx.jpg)
-13
-![Crepe](https://ifh.cc/g/l7Rj8X.jpg)
-14
-![Crepe](https://ifh.cc/g/B5r9tL.jpg)
-15
-![Crepe](https://ifh.cc/g/llmaKW.jpg)
-16
-![Crepe](https://ifh.cc/g/obtLoL.jpg)
-17
-![Crepe](https://ifh.cc/g/bB4GNr.jpg)
+School_Rule 
+## 학급 규칙
 
-{: .box-note}
-photo taken with nikon
+# 1.불필요한 신체 접촉 
 
-ⓒeunchanbravekim
+- **씨름,간지럼,친구 위에 앉기,안기,마스크 벗기기**, Ext.
+- **위에 기준 정해야 함 “~정도는 괜찮다.”**
+- 친구가 **허락**한 거라면 가능..?
 
+# 2.학교에서 불필요한 물건 꺼내기X 
+
+- 학용품,준비물,교과서를 **제외한 것들**
+- 선생님이 **허락하신 물건은 가능**
+
+# 3.친구 물건에 손대지 않기 
+
+- **허락 없이** 친구의 물건의 **고의적**으로 건드린 경우
+
+# 4.교실 내 뛰기 
+
+- **위급 상황**(코피나 화재 등)이 아닌데 뛴 경우
+
+## 자기 자리 청소X (금요일마다 투표로 뽑음) 
+
+- **벌칙**으로 그날 **청소함**
+
+# 벌칙 + 땡자 
+
+- **일주일 청소(5일)**
+- **어긴 횟수X1분 플랭크** 
+
+**— 둘 중 하나 선택**
+
+**— 일주일 청소는 일 마다 누적으로 쌓이며 자신이 청소 당번인 주는 제외함(누적 관리 해야 함)**
+
+— 플랭크 **시간 나눠서** 해도 되는 지 **연속**으로 해야 하는지 정해야 함
+
+## 자기 자리 청소X (금요일마다 투표로 뽑음) 
+
+- **벌칙**으로 그날 **청소함**
