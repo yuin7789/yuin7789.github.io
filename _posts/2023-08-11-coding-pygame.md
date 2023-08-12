@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Portfolio
-subtitle: Picture Portfolioㅁ
+subtitle: Picture Portfolio
 cover-img: assets/img/aa.png
 gh-repo: daattali/beautiful-jekyll
 tags: [Portfolio]
