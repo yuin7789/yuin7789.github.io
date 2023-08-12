@@ -6,11 +6,12 @@ cover-img: assets/img/aa.png
 gh-repo: daattali/beautiful-jekyll
 tags: [School]
 comments: true
+published: true
 ---
 
 
 
-# `학급 규칙`
+# 학급 규칙
 
 # 1.불필요한 신체 접촉 👀
 
