@@ -9,5 +9,5 @@ group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-seo-tag'
     gem 'jekyll-linkpreview'
-    gem install jekyll-polyglot
+    gem "jekyll-polyglot"
   end 
