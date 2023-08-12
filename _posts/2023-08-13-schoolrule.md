@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 학급규칙
-subtitle: 1-1 2학기 학급 규칙
+title: School Rule
+subtitle: 1-1 Rule
 cover-img: assets/img/aa.png
 gh-repo: daattali/beautiful-jekyll
 tags: [School]
