@@ -1,4 +1,17 @@
-## 학급 규칙
+---
+layout: post
+title: Portfolio
+subtitle: Picture Portfolio
+cover-img: assets/img/aa.png
+gh-repo: daattali/beautiful-jekyll
+tags: [Portfolio]
+comments: true
+published: false
+---
+
+
+
+# 학급 규칙
 
 
 # 1.불필요한 신체 접촉 👀
