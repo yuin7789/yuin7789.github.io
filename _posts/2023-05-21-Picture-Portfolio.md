@@ -2,7 +2,7 @@
 layout: post
 title: School Rule
 subtitle: School Rule
-cover-img: assets/img/IMG_20230520_231741_985.jpg
+
 gh-repo: daattali/beautiful-jekyll
 tags: [Portfolio]
 comments: true
