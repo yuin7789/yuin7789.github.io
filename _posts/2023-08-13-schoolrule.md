@@ -10,7 +10,7 @@ published: true
 ---
 
 
-School_Rule
+School_Rule 
 ## 학급 규칙
 
 # 1.불필요한 신체 접촉 👀
