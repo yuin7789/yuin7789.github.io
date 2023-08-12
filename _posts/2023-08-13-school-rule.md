@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Portfolio
-subtitle: Picture Portfolio
+title: 학급규칙
+subtitle: 1-1 2학기 학급 규칙
 cover-img: assets/img/aa.png
 gh-repo: daattali/beautiful-jekyll
-tags: [Portfolio]
+tags: [School]
 comments: true
 ---
 
