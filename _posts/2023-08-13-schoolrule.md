@@ -6,7 +6,7 @@ cover-img: assets/img/aa.png
 gh-repo: daattali/beautiful-jekyll
 tags: [School]
 comments: true
-published: true
+published: true 
 ---
 
 
