@@ -1,6 +1,6 @@
 ---
 layout: post
-title: School Rule
+title: School Rule 
 subtitle: School Rule
 
 gh-repo: daattali/beautiful-jekyll
